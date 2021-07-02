@@ -1,0 +1,9 @@
+{
+    "name": "Donald Tabs",
+    "version": "1.0.0",
+    "description": "A tiny chrome extension that opens a dumb Donald Trump quote in new tabs.",
+    "chrome_url_overrides" : {
+        "newtab": "./newTab.html"
+    },
+    "manifest_version": 2
+}
